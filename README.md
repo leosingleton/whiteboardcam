@@ -14,4 +14,4 @@ webcam is recommended for maximum quality).
 on the [GitHub discussions page](https://github.com/leosingleton/whiteboardcam/discussions).
 
 
-&copy; 2016-2022 [Leo C. Singleton IV](https://www.leosingleton.com/)
+&copy; 2016-2025 [Leo C. Singleton IV](https://www.leosingleton.com/)
